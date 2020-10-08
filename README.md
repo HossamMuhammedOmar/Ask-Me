@@ -1,6 +1,4 @@
-# askme
-
-A new Flutter project.
+# ASK ME PROJECT
 
 ## Getting Started
 
